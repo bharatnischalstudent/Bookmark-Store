@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/BharatNischal/BookmarkProject#readme",
   "engines": {
-    "node": "16.x"
+    "node": "14.x"
   }
 }
